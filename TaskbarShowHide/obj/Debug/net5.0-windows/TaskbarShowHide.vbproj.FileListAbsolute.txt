@@ -1,0 +1,16 @@
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\bin\Debug\net5.0-windows\TaskbarShowHide.exe
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\bin\Debug\net5.0-windows\TaskbarShowHide.deps.json
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\bin\Debug\net5.0-windows\TaskbarShowHide.runtimeconfig.json
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\bin\Debug\net5.0-windows\TaskbarShowHide.runtimeconfig.dev.json
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\bin\Debug\net5.0-windows\TaskbarShowHide.dll
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\bin\Debug\net5.0-windows\ref\TaskbarShowHide.dll
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\bin\Debug\net5.0-windows\TaskbarShowHide.pdb
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\TaskbarShowHide.vbproj.AssemblyReference.cache
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\TaskbarShowHide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\TaskbarShowHide.AssemblyInfoInputs.cache
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\TaskbarShowHide.AssemblyInfo.vb
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\TaskbarShowHide.vbproj.CoreCompileInputs.cache
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\TaskbarShowHide.dll
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\ref\TaskbarShowHide.dll
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\TaskbarShowHide.pdb
+C:\Users\yasir\OneDrive\Desktop\TaskbarShowHide\TaskbarShowHide\obj\Debug\net5.0-windows\TaskbarShowHide.genruntimeconfig.cache
